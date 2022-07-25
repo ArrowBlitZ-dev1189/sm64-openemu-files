@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Core Identifier</key>
+	<string>org.openemu.Mupen64Plus</string>
+	<key>Core Version</key>
+	<string>2.5.9</string>
+	<key>Name</key>
+	<string>SM64 Final Bowser (Both BLJ's Done)</string>
+	<key>ROM MD5</key>
+	<string>20b854b239203baf6c961b850a4a51a2</string>
+	<key>Timestamp</key>
+	<date>2022-07-25T20:42:44Z</date>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>
